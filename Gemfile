@@ -35,6 +35,8 @@ gem 'will_paginate', '3.1.8'
 gem 'bootstrap-will_paginate', '1.0.0'
 gem 'rails-controller-testing'
 
+gem 'webpacker'
+gem 'react-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
